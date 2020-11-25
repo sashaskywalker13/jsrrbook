@@ -4,5 +4,5 @@ root: ./
     readme: README.md  
     summary: SUMMARY.md​
     
-redirects:  
-    previous/page: theory/paradigm.md
+# redirects:  
+#     previous/page: theory/paradigm.md

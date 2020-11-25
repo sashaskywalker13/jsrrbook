@@ -1,9 +1,9 @@
 ‌# Summary​
 
-## Use headings to create page groups like this one​
+## Общая теория
 
-* [First page's title](theory/README.md)    
-    * [Some child page](theory/paradigm.md)    
+* [Содержание](theory/README.md)    
+    * [Парадигмы программирования](theory/paradigm.md)    
     
 <!-- * [Second page's title](page2/README.md)    
     * [Some child page](page2/page2-1.md)    
